@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.iammeadows.de/</loc>
+    <loc>https://www.iammeadows.de/blog/</loc>
+    <lastmod>2021-05-05T11:58:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.iammeadows.de/series/</loc>
+    <loc>https://www.iammeadows.de/blog/first-release/</loc>
+    <lastmod>2021-05-05T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iammeadows.de/</loc>
+    <lastmod>2021-05-05T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iammeadows.de/tags/release/</loc>
+    <lastmod>2021-05-05T11:58:39-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.iammeadows.de/tags/</loc>
+    <lastmod>2021-05-05T11:58:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.iammeadows.de/series/</loc>
   </url>
   
 </urlset>

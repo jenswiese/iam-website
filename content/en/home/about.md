@@ -4,9 +4,12 @@ image: "IAM-Conterfait-2.jpg"
 weight: 2
 ---
 
-Synth meets guitar meets 808 meets jaw harp meets whatever!
+My name is Jens! I'm a musician, producer and step sequencer enthusiast.
 
-My name is Jens and this project is my approach to bring my favorite genres together – with almost no restrictions. Let's see how this goes. :)
+I AM MEADOWS is my approach to bring my favorite genres together – with almost no restrictions. 
+Meaning: Synth meets guitar meets 808 meets jaw harp meets whatever!
+
+Let's see how this goes. :)
 
 Currently you can listen to my music on:
 
