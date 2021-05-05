@@ -1,0 +1,5 @@
+.idea
+
+/resources/_gen/
+/docs
+hugo_stats.json
