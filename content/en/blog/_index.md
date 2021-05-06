@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-weight: 20
-draft: true
+weight: 5
+draft: false
 ---
